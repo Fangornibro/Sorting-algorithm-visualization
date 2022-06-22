@@ -1,0 +1,11 @@
+C:\Users\kuzmi\Desktop\Курсова\Cursova\Cursova\bin\Debug\Cursova.exe.config
+C:\Users\kuzmi\Desktop\Курсова\Cursova\Cursova\bin\Debug\Cursova.exe
+C:\Users\kuzmi\Desktop\Курсова\Cursova\Cursova\bin\Debug\Cursova.pdb
+C:\Users\kuzmi\Desktop\Курсова\Cursova\Cursova\obj\Debug\Cursova.csproj.AssemblyReference.cache
+C:\Users\kuzmi\Desktop\Курсова\Cursova\Cursova\obj\Debug\Cursova.Form1.resources
+C:\Users\kuzmi\Desktop\Курсова\Cursova\Cursova\obj\Debug\Cursova.Properties.Resources.resources
+C:\Users\kuzmi\Desktop\Курсова\Cursova\Cursova\obj\Debug\Cursova.csproj.GenerateResource.cache
+C:\Users\kuzmi\Desktop\Курсова\Cursova\Cursova\obj\Debug\Cursova.csproj.CoreCompileInputs.cache
+C:\Users\kuzmi\Desktop\Курсова\Cursova\Cursova\obj\Debug\Cursova.exe
+C:\Users\kuzmi\Desktop\Курсова\Cursova\Cursova\obj\Debug\Cursova.pdb
+C:\Users\kuzmi\Desktop\Курсова\Cursova\Cursova\obj\Debug\Cursova.csproj.SuggestedBindingRedirects.cache
